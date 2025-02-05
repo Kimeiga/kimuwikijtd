@@ -10,3 +10,5 @@ gem "jekyll-seo-tag"
 gem "jekyll-github-metadata"
 gem "jekyll-include-cache"
 gem "jekyll-sitemap"
+
+gem 'jekyll-default-layout'
